@@ -46,7 +46,7 @@ break;
 System.out.println(); 
 
 }  
-System.out.println("Ruchi count: "+count);
+System.out.println("Ruchi count: "+count+" .");
 } 
 
 }  
