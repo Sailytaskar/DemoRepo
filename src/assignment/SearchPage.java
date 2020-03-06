@@ -6,5 +6,11 @@ public class SearchPage {
 		
 		System.out.println("SearchPage");
 	}
+	
+	//new code
+	public void add() {
+		
+		System.out.println("add");
+	}
 
 }
